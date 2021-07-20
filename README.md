@@ -2,7 +2,8 @@
 this is a template to organize your source and jupyter notebooks
 
 
-## structure                                     
+## project tree structure    
+```
 ├── docs                                           documentation
 │   └── build
 │       └── index.html                             
@@ -10,3 +11,4 @@ this is a template to organize your source and jupyter notebooks
 ├── src                                            source directory
 ├── README.md                                      readme
 └── test                                           tests directory
+```
